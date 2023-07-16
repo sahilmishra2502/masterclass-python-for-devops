@@ -10,7 +10,6 @@ To get started with the Masterclass, you will need to have Python installed on y
 
 Once you have Python installed, you can clone this repository to your local machine by running the following command in your terminal:
 
-git clone https://github.com/LondheShubham153/python-for-devops-masterclass.git
 
 Running the Masterclass code
 The Masterclass is organized into several modules, each covering a specific topic in Python. To run a tutorial, simply navigate to the module directory and run the corresponding Python file in your terminal. For example, to run the tutorial on variables, navigate to the basics directory and run the hello.py file:
